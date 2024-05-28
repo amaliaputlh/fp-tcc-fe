@@ -5,7 +5,7 @@ This is an example of crud frontend project using React.js
 - Jwt Auth
 
 ### Backend Node.js 
-https://github.com/indahsramonasari/nodejs-crud-using-jwt-auth.git
+https://github.com/amaliaputlh/fp-tcc-be
 
 ### How to run web application
 - clone and run the backend project first (Backend Node.js)
